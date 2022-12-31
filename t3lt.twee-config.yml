@@ -5,3 +5,77 @@ sugarcube-2:
       container: true
     ConversationChoices:
       name: ConversationChoices
+    CarryAdjust:
+      name: CarryAdjust
+    HeightCorrected:
+      name: HeightCorrected
+    l:
+      name: l
+    Update_MC_Speech:
+      name: Update_MC_Speech
+    AppearanceCorrect:
+      name: AppearanceCorrect
+    Inhuman:
+      name: Inhuman
+    PerceivedGender:
+      name: PerceivedGender
+    mrms:
+      name: mrms
+    appGender:
+      name: appGender
+    PerceivedGender2:
+      name: PerceivedGender2
+    PregCheck:
+      name: PregCheck
+    PerceivedStature:
+      name: PerceivedStature
+    BodyHeightText:
+      name: BodyHeightText
+    PenisLengthText:
+      name: PenisLengthText
+    GenderPronoun:
+      name: GenderPronoun
+    FlaskFirst:
+      name: FlaskFirst
+    LibidoCorrected:
+      name: LibidoCorrected
+    GenderCorrected:
+      name: GenderCorrected
+    Numerical:
+      name: Numerical
+    PluralS:
+      name: PluralS
+    CheckParty:
+      name: CheckParty
+    RelicGrid:
+      name: RelicGrid
+    CurseGrid:
+      name: CurseGrid
+    BreastCorrected:
+      name: BreastCorrected
+    Lewdness:
+      name: Lewdness
+    Threat1Criterion:
+      name: Threat1Criterion
+    ObjectivePronoun:
+      name: ObjectivePronoun
+    PossesivePronoun:
+      name: PossesivePronoun
+    dollTF:
+      name: dollTF
+    MonsterPregCheckParty:
+      name: MonsterPregCheckParty
+    randomSexSelect:
+      name: randomSexSelect
+    statUpdateCompanions:
+      name: statUpdateCompanions
+    HornGrowthDesc:
+      name: HornGrowthDesc
+    CloneSelf:
+      name: CloneSelf
+    Handicap:
+      name: Handicap
+    checkTime:
+      name: checkTime
+    AgeCorrected:
+      name: AgeCorrected

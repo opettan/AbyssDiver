@@ -476,7 +476,7 @@ If you're not dissuaded and choose to continue onward, it will take you 8 days t
 <<if $playerCurses.some(e => e.name === "Hypno Happytime") && $layer7Hypno < 3>><<set $layer7Hypno += 1>>
 	After you are pulled into the giant security robot, you are placed in a cell and bombarded with propaganda recordings about life in the city and your place in it. It seems to be nonsense, why would you want to serve organics? You are an organic!
 
-	Of course you can't tone it all out, but it's pretty easy to keep your eyes on what matters and you patiently wait until the time is up and you are released.
+	Of course you can't tune it all out, but it's pretty easy to keep your eyes on what matters and you patiently wait until the time is up and you are released.
 
 	[[Return to exploring the city|Layer7 Hub]]
 

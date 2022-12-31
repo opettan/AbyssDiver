@@ -1532,7 +1532,7 @@
 		/*hairColor: $app.hairColor,
 		skinColor: $app.skinColor,*/
 		age: $app.age,
-		appDesc: "You basically feel the same as always, only your gender is different. Well maybe you don't feel the same as always...",
+		appDesc: "You basically feel the same as always.",
 		style: "border: 2px solid rgb(1,0,0);",
 		style1: "box-shadow: 0px 0px 10px 2px rgba(255, 225, 225,1);background-color: black;",
 		fear: $fear,
@@ -1680,7 +1680,7 @@
 			<<else>>
 				Eventually, after quite a bit of effort, you push out _eggs unfertilized egg<<if _eggs>1>>s<</if>>.
 			<</if>>
-			You don't really know what to do with the egg<<if _eggs>1>>s<</if>>, so you simply dispose off <<if _eggs>1>>them<<else>>it<</if>>. You are so spend from the whole ordeal that you can only rest, basically wasting an entire day.
+			You don't really know what to do with the egg<<if _eggs>1>>s<</if>>, so you simply dispose off <<if _eggs>1>>them<<else>>it<</if>>. You are so spent from the whole ordeal that you can only rest, basically wasting an entire day.
 			<br><br>
 			<<set $tempTime=1>>
 			<<include "GeneralTimeStats">>
